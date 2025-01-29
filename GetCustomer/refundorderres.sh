@@ -10,10 +10,10 @@
   "udf10": "",
   "udf1": "",
   "txn_uuid": "eulwh5QbZSBvwpt7333f3",
-  "txn_id": "merchant_success-JP1636474794-1",
+  "txn_id": "merchant_id-JP1636474794-1",
   "txn_detail": {
     "txn_uuid": "eulwh5QbZSBvwpt7333f3",
-    "txn_id": "merchant_success-JP1636474794-1",
+    "txn_id": "merchant_id-JP1636474794-1",
     "txn_amount": 1,
     "tax_amount": null,
     "surcharge_amount": null,
@@ -22,7 +22,7 @@
     "order_id": "JP1636474794",
     "net_amount": 1,
     "gateway_id": 23,
-    "gateway": "RAZORPAY",
+    "gateway": "HYPERPG",
     "express_checkout": true,
     "error_message": "",
     "error_code": "",
@@ -39,7 +39,7 @@
       "status": "PENDING",
       "sent_to_gateway": false,
       "refund_type": "STANDARD",
-      "refund_source": "RAZORPAY",
+      "refund_source": "HYPERPG",
       "ref": null,
       "initiated_by": "API",
       "id": null,
@@ -54,12 +54,12 @@
   "payment_method_type": "CARD",
   "payment_method": "VISA",
   "payment_links": {
-    "web": "https://api.juspay.in/merchant/pay/ordeh_57dfd768bb7d4896bc0c3f30bc9ad77",
-    "mobile": "https://api.juspay.in/merchant/pay/ordeh_57dfd768bb7d4896bc0c3f30bc9ad77?mobile=true",
-    "iframe": "https://api.juspay.in/merchant/ipay/ordeh_57dfd768bb7d4896bc0c3f30bc9ad77"
+    "web": "https://api.hyperpg.in/merchant/pay/ordeh_57dfd768bb7d4896bc0c3f30bc9ad77",
+    "mobile": "https://api.hyperpg.in/merchant/pay/ordeh_57dfd768bb7d4896bc0c3f30bc9ad77?mobile=true",
+    "iframe": "https://api.hyperpg.in/merchant/ipay/ordeh_57dfd768bb7d4896bc0c3f30bc9ad77"
   },
   "payment_gateway_response": {
-    "txn_id": "merchant_success-JP1636474794-1",
+    "txn_id": "merchant_id-JP1636474794-1",
     "rrn": "156555",
     "resp_message": "SUCCESS",
     "resp_code": "SUCCESS",
@@ -70,9 +70,9 @@
   "order_id": "JP1636474794",
   "offers": [],
   "metadata": {
-    "RAZORPAY:gateway_reference_id": "testmid"
+    "HYPERPG:gateway_reference_id": "testmid"
   },
-  "merchant_id": "merchant_success",
+  "merchant_id": "merchant_id",
   "id": "ordeh_57dfd768bb7d4896bc0c3f30bc9ad77",
   "gateway_reference_id": "testmid",
   "gateway_id": 23,
