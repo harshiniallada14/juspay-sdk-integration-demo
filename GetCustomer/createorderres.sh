@@ -1,4 +1,4 @@
-{
+g{
   "udf9": "",
   "udf8": "",
   "udf7": "",
@@ -21,7 +21,7 @@
   },
   "order_id": "14183944763",
   "merchant_id": "merchantId",
-  "juspay": {
+  "hyperpg": {
     "client_auth_token_expiry": "2020-06-16T10:43:35Z",
     "client_auth_token": "tkn_753275c49a44a1a313eb2567f2fd6b"
   },
