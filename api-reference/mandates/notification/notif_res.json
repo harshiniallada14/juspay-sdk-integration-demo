@@ -9,7 +9,7 @@
     "provider_response": {
       "provider_ref_id": "IN0DF815118772"
     },
-    "provider_name": "BILLDESK",
+    "provider_name": "PROVIDER_NAME",
     "object_reference_id": "2QNPw8KSbpHL122bNPgAK07",
     "object": "notification",
     "notification_type": "SMS",
