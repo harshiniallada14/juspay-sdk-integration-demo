@@ -1,6 +1,6 @@
 curl --location 'https://api.hyperpg.in/txns' \
 --header 'Content-Type: application/x-www-form-urlencoded' \
---header 'x-merchantid: mandate_juspay' \
+--header 'x-merchantid: mandate_hyperpg' \
 --data-urlencode 'order.order_id=test_123' \
 --data-urlencode 'order.amount=1' \
 --data-urlencode 'order.currency=INR' \
