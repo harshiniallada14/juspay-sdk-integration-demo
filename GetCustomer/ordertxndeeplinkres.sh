@@ -1,14 +1,13 @@
 {
     "status": "NEW",
     "status_id": 10,
-    "id": "ordeh_fab5fc85809d45798153a02e4ee8000c",
-    "order_id": "HD-1707740261",
+    "id": "ordeh_5d4f1f5d2135453aadd08703297c0c2b",
+    "order_id": "orderIdIs67267",
     "payment_links": {
         "iframe": "https://api.hyperpg.in/orders/ordeh_5d4f1f5d2135453aadd08703297c0c2b/payment-page",
         "web": "https://api.hyperpg.in/orders/ordeh_5d4f1f5d2135453aadd08703297c0c2b/payment-page",
         "mobile": "https://api.hyperpg.in/orders/ordeh_5d4f1f5d2135453aadd08703297c0c2b/payment-page"
     },
-    "base64_encoded_qr": "qr-image-in-bas64-encoded-for,at",
     "deep_link": "upi://pay?tr=mandate_hyperpg-orderIdIs67267-1&mc=5816&pa=STAGEONLINE@ybl&pn=Stage&am=2.00&cu=INR",
     "udf9": "",
     "udf8": "",
@@ -18,23 +17,24 @@
     "udf4": "",
     "udf3": "",
     "udf2": "",
-    "udf10": "RiderQR",
+    "udf10": "",
     "udf1": "",
-    "return_url": "http://www.google.com/",
+    "return_url": "",
     "refunded": false,
-    "product_id": "5",
-    "merchant_id": "merchant1",
-    "date_created": "2024-02-12T07:44:57.150265Z",
-    "customer_phone": "9999988888",
-    "customer_id": "cth_w2gbGjGi8BUkLgCo",
-    "customer_email": "abcd@gmail.com",
+    "product_id": "",
+    "merchant_id": "mandate_hyperpg",
+    "date_created": "2023-12-15T10:54:52Z",
+    "customer_phone": "9988776655",
+    "customer_id": "cth_nfhDAjJf8HmnZ1AK8",
+    "customer_email": "ghge@gmail.com",
     "currency": "INR",
     "amount_refunded": 0,
     "source_object": "",
     "source_object_id": "",
-    "amount": 1,
-    "juspay": {
-        "client_auth_token_expiry": "2024-02-12T07:59:57Z",
-        "client_auth_token": "tkn_b25bae8cd5cc4f4c9ec28b5a5ffb2db5"
-    }
+    "amount": 2,
+    "hyperpg": {
+        "client_auth_token_expiry": "2023-12-15T11:09:52Z",
+        "client_auth_token": "tkn_af91a58f472c419b97ab10fe0f259020"
+    },
+    "order_expiry": "2023-12-15T11:09:52Z"
 }

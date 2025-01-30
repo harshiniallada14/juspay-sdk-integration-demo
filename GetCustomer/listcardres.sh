@@ -5,7 +5,7 @@
         {
             "expired": false,
             "card_issuer_country": "INDIA",
-            "name_on_card": "Juspay",
+            "name_on_card": "Johnabc",
             "card_reference": "token_4149513e22e2e58ead99e1ecdd541f10",
             "card_token": "tkn_1b6fcc1015944fdfb5020a92x4fa1f91",
             "card_issuer": "SBI",
@@ -25,15 +25,12 @@
                 "expiry_month": "01",
                 "cvv_less_support": true,
                 "cvv_less_supported_gateways": [
-                    "CYBERSOURCE",
-                    "RAZORPAY",
-                    "PAYTM_V2",
-                    "PAYU"
+                    "CYBERSOURCE"
                 ]
             },
             "provider_category": "NETWORK",
             "card_isin": "461119",
-            "juspay_bank_code": "JP_SBI",
+            "hyperpg_bank_code": "JP_SBI",
             "metadata": {
                 "origin_merchant_id": "your_merchantID"
             },
@@ -47,7 +44,7 @@
         {
             "expired": false,
             "card_issuer_country": "INDIA",
-            "name_on_card": "Juspay",
+            "name_on_card": "Johnabc",
             "card_reference": "token_4149513e23e2e5gead99e17cdd541f10",
             "card_token": "tkn_1b6fcc1045944fdfb5020a92e4fa1f91",
             "card_issuer": "SBI",
@@ -67,12 +64,12 @@
                 "expiry_month": "02",
                 "cvv_less_support": true,
                 "cvv_less_supported_gateways": [
-                    "PAYU"
+                    "CYBERSOURCE"
                 ]
             },
             "provider_category": "NETWORK",
             "card_isin": "510128",
-            "juspay_bank_code": "JP_SBI",
+            "hyperpg_bank_code": "JP_SBI",
             "metadata": {
                 "origin_merchant_id": "your_merchantID"
             },

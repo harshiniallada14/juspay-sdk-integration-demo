@@ -4,7 +4,7 @@ curl -X  POST 'https://api.hyperpg.in/txns' \
 -d 'order.order_id=26234761248249834753485721' \
 -d 'order.amount=1.00' \
 -d 'order.customer_id=cst_lz7zmpemoo5okgav' \
--d 'order.metadata.BILLDESK:AdditionalInfo1=info' \
+-d 'order.metadata.HYPER_PG:AdditionalInfo1=info' \
 -d 'mandate_id=4rKxSj3bNXs7RQcdtajAkb' \
 -d 'mandate.notification_id=2QNPw8KSbpHL122bNP926' \
 -d 'mandate.display_invoice_number=JUS1239881' \

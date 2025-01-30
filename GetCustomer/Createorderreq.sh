@@ -11,7 +11,7 @@ curl --location --request POST 'https://api.hyperpg.in/orders' \
 --data-urlencode 'product_id=prod-141833' \
 --data-urlencode 'return_url=http://shop.merchant.com/payments/handleResponse' \
 --data-urlencode 'description=Sample description' \
---data-urlencode 'billing_address_first_name=Juspay' \
+--data-urlencode 'billing_address_first_name=Hyperpg' \
 --data-urlencode 'billing_address_last_name=Technologies' \
 --data-urlencode 'billing_address_line1=Girija Building' \
 --data-urlencode 'billing_address_line2=Ganapathi Temple Road' \
@@ -22,7 +22,7 @@ curl --location --request POST 'https://api.hyperpg.in/orders' \
 --data-urlencode 'billing_address_postal_code=560095' \
 --data-urlencode 'billing_address_phone=9988775566' \
 --data-urlencode 'billing_address_country_code_iso=IND' \
---data-urlencode 'shipping_address_first_name=Juspay' \
+--data-urlencode 'shipping_address_first_name=Hyperpg' \
 --data-urlencode 'shipping_address_last_name=Technologies' \
 --data-urlencode 'shipping_address_line1=Girija Building' \
 --data-urlencode 'shipping_address_line2=Ganapathi Temple Road' \
@@ -30,9 +30,8 @@ curl --location --request POST 'https://api.hyperpg.in/orders' \
 --data-urlencode 'shipping_address_city=Bengaluru' \
 --data-urlencode 'shipping_address_state=Karnataka' \
 --data-urlencode 'shipping_address_postal_code=560095' \
---data-urlencode 'shipping_address_phone=9962881912' \
+--data-urlencode 'shipping_address_phone=9998887777' \
 --data-urlencode 'shipping_address_country_code_iso=IND' \
 --data-urlencode 'shipping_address_country=India' \
---data-urlencode 'metadata.AXIS_BIZ:gateway_reference_id=bus' \
 --data-urlencode 'options.get_client_auth_token=true' \
 

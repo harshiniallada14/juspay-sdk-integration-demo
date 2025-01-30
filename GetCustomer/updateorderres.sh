@@ -13,9 +13,9 @@
   "return_url": "https://api.hyperpg.in",
   "product_id": "",
   "payment_links": {
-    "iframe": "https://api.juspay.in/merchant/ipay/ordeh_4b9501d7146243ac8a9d9c4a42ed7b59",
-    "web": "https://api.juspay.in/merchant/pay/ordeh_4b9501d7146243ac8a9d9c4a42ed7b59",
-    "mobile": "https://api.juspay.in/merchant/pay/ordeh_4b9501d7146243ac8a9d9c4a42ed7b59?mobile=true"
+    "iframe": "https://api.hyperpg.in/merchant/ipay/ordeh_4b9501d7146243ac8a9d9c4a42ed7b59",
+    "web": "https://api.hyperpg.in/merchant/pay/ordeh_4b9501d7146243ac8a9d9c4a42ed7b59",
+    "mobile": "https://api.hyperpg.in/merchant/pay/ordeh_4b9501d7146243ac8a9d9c4a42ed7b59?mobile=true"
   },
   "udf1": "",
   "udf2": "",

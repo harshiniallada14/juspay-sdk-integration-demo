@@ -10,7 +10,7 @@
     "currency": "INR",
     "order_id": "JPAYNEW034",
     "date_created": "2021-09-10T09:06:53Z",
-    "return_url": "https://api.juspay.in",
+    "return_url": "https://api.hyperpg.in",
     "product_id": "",
     "payment_links": {
         "iframe": "https://api.hyperpg.in/merchant/ipay/ordeh_ce50b4861d2b4b3e9bf3r3r2rid3",
@@ -53,13 +53,13 @@
         "express_checkout": false,
         "redirect": false,
         "txn_uuid": "eulk1HvJ29o9dJ344x4f",
-        "gateway": "RAZORPAY",
+        "gateway": "HYPERPG",
         "error_message": "",
         "created": "2021-09-10T09:07:10Z"
     },
     "payment_gateway_response": {
         "resp_code": "captured",
-        "rrn": "868709664362",
+        "rrn": 998877665544332211",
         "created": "2021-09-10T09:07:39Z",
         "epg_txn_id": "pay_HvhtO3324opPPs",
         "resp_message": "",

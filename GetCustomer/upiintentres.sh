@@ -6,8 +6,8 @@
     "sdk_params": {
       "tr": "202101345671229366",
       "tid": "121313202101345671229366",
-      "merchant_vpa": "juspay@axisbank",
-      "merchant_name": "juspay",
+      "merchant_vpa": "merchant11@axisbank",
+      "merchant_name": "merchant11",
       "mcc": "1234",
       "amount": "1"
     },
