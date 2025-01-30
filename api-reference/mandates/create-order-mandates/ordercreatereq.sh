@@ -6,7 +6,7 @@ curl POST 'https://api.hyperpg.in/orders' \
 -d 'currency=INR' \
 -d 'customer_id=cst_lz7emoo5okgav' \
 -d 'customer_email=test@gmail.com' \
--d 'customer_phone=9818638469' \
+-d 'customer_phone=987654321' \
 -d 'billing_address_first_name=Name' \
 -d 'billing_address_city=Bengaluru' \
 -d 'shipping_address_city=Mumbai' \
@@ -22,4 +22,4 @@ curl POST 'https://api.hyperpg.in/orders' \
 -d 'mandate.rule_value=1' \
 -d 'mandate.rule_type=ON' \
 -d 'gateway_id=19' \
--d 'metadata.PAYTM_V2:gateway_reference_id=upimandate'
+-d 'metadata.HYPER_PG:gateway_reference_id=upimandate'
